@@ -1,4 +1,5 @@
 # login
+First Do(npm install express sqlite3 body-parser)
 Login project
 1.	Databas
 Gör en SQLite databas som heter login.db
